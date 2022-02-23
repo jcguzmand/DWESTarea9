@@ -1,0 +1,58 @@
+body{
+    background: black;
+    font-family: 'Carter One', cursive;
+}
+#container{
+    margin-left: 25px;
+}
+
+h2{
+    color: #66CDAA;
+}
+
+p{
+    color: white;
+    font-size: 1.25em;
+    margin-left: 10px;
+}
+
+li{
+    color: white;
+    list-style: none;
+    font-size: 1.25em;
+    margin-left: 10px;
+
+}
+h1{
+    font-family: 'Carter One', cursive;
+    color: #66CDAA;
+    font-size: 4em;
+    margin: 20px;
+}
+
+img{ 
+    width: 400px;
+}
+
+label{
+    color: white;
+}
+
+#entrada{
+    font-size: 20px;
+    padding: 2px;
+}
+#boton{
+    height: 30px;
+    font-size: 1.25em;
+}
+
+#entrada:focus{
+    outline: #66CDAA solid 3px;
+}
+
+@font-face {
+    font-family: 'Carter One', cursive;
+    src: url('https://fonts.googleapis.com/css2?family=Carter+One&display=swap');
+}
+

@@ -1,0 +1,8 @@
+API
+http://localhost/DWES/UNIDAD_7/DWES_tarea7/api.php?action=get_lista_autores
+
+
+CLIENTE
+http://localhost/DWES/UNIDAD_7/DWES_tarea7/cliente.php?action=get_lista_autores
+
+https://jcguzman.000webhostapp.com/

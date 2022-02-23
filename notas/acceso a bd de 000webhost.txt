@@ -1,0 +1,7 @@
+Acceso BD Hosting awardspace
+
+fdb32.awardspace.net	3968813_libro	123456aA-	3968813_libro	
+
+Acceso BD Hosting 000webhost
+
+localhost	id18335293_juancarlos	123456789aA-	id18335293_libro

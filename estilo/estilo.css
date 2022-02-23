@@ -1,0 +1,105 @@
+
+body{
+    font-family: verdana, sans-serif;
+}
+header{
+   background-color: #43453A;
+   margin: -8px -8px 0 -8px;
+   height: 120px; 
+}
+
+header h1{
+    margin: 15px auto 0 auto;
+    color: white;
+    font-size: 40px;
+}
+
+header img{
+    margin-top: 10px;
+    height: 100px;
+    margin-left: 20px;
+}
+
+ul{
+    list-style-type: none;
+    padding:0px;
+}
+
+section{
+   background-color: white;
+   max-width: 600px;
+   margin: 0 auto 0 auto;
+   font-size: 1.5em;
+}
+
+li{
+    list-style: none;
+}
+
+p > span{
+  font-weight: bold;
+  font-size: 1.25em;  
+}
+
+input{
+    display: inline;
+    margin-top: 10px;
+    padding-left: 10px;
+    height: 40px;
+    border-radius: 5px;
+    font-size: 1em;
+    width: 400px;
+}
+
+form{
+    margin-top: 150px;
+}
+
+label{
+    font-size: 0.8em;
+    display: block;
+}
+
+#boton{
+    background-color: #04AA6D;
+    color: white;
+    height: 40px;
+    margin-top: 10px;
+    padding: 0;
+    border-radius: 5px; 
+    width: 100px;
+    display: inline;
+    margin-left: 20px;
+}
+
+.error{
+    margin-top: 20px;
+    color: red;
+}
+
+.ocultar{
+    display: none;
+}
+
+.mostrar{
+    display: block;
+}
+
+input[name="texto"] {
+  border: 2px solid orange;
+  border-radius: 10px 10px 10px 10px;
+  font-size: 35px;
+  padding: 10px 20px;
+  height: 45px;
+  width: 600px;
+  color: #656D78;
+}
+
+input[name="texto"]:focus {
+  background-color: #FDDFC7;
+}
+
+h4{
+    margin-bottom: 10px;
+    background: #E6E9EE;
+}
